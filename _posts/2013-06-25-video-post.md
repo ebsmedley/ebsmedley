@@ -1,20 +1,18 @@
 ---
 layout: post
-title:  "A Post with a Video"
-date:   2016-03-15
-excerpt: "Custom written post descriptions are the way to go... if you're not lazy."
+title:  "AI Grant"
+date:   2018-05-29
+excerpt: "We want to accelerate neuroscience research by building an open-source neural network model that can accurately detect various cell types"
 tag:
 - sample
 - post
 - video
 comments: true
 ---
-<iframe width="560" height="315" src="//www.youtube.com/embed/SU3kYxJmWuQ" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="//https://www.youtube.com/watch?v=gLHOb0CNhLU&t=1s" frameborder="0"> </iframe>
 
-Video embeds are responsive and scale with the width of the main content block with the help of [FitVids](http://fitvidsjs.com/).
+For over 150 years, cell counting has been used to study neural function and anatomy. Most researchers still count cells manually because automatic solutions can be expensive, unreliable, and inaccurate as most rely on contrast based contour detections. Especially when brain slice images contain overlapping cells, different cell types, and neural debris, only trained researchers can accurately identify cells of interest based on unique morphology. However, counting thousands of cells from micrometer brain slices is labor intensive, subjective, and prone to error. To automate this process with a reproducible pipeline, we propose to build a neural network model that can identify various cell types from brain slice images. 
 
-Not sure if this only effects Kramdown or if it's an issue with Markdown in general. But adding YouTube video embeds causes errors when building your Jekyll site. To fix add a space between the `<iframe>` tags and remove `allowfullscreen`. Example below:
+Our system will build on state-of-the-art object detection models (Mask R-CNN) to reliably and accurately detect and mask most known cell types (e.g. pyramidal, spiny neurons, astrocytes). To collect data, we will build a web application through which researchers around the world can participate by submitting cell images and annotating images online. This crowd-sourced data will allow us to train a model unbiased to specific acquisition environments and can be used to detect different cell types from any location in the brain. We hope this effort can revolutionize neuroscience research to be more objective, collaborative, and faster than ever before.
 
-{% highlight html %}
-<iframe width="560" height="315" src="//www.youtube.com/embed/SU3kYxJmWuQ" frameborder="0"> </iframe>
-{% endhighlight %}
+*Stay tuned for updates on the platform!*
