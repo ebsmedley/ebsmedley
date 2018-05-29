@@ -9,7 +9,7 @@ tag:
 - video
 comments: true
 ---
-<iframe width="560" height="315" src="//https://www.youtube.com/watch?v=gLHOb0CNhLU&t" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="//https://www.youtube.com/embed/gLHOb0CNhLU&t=" frameborder="0"> </iframe>
 
 For over 150 years, cell counting has been used to study neural function and anatomy. Most researchers still count cells manually because automatic solutions can be expensive, unreliable, and inaccurate as most rely on contrast based contour detections. Especially when brain slice images contain overlapping cells, different cell types, and neural debris, only trained researchers can accurately identify cells of interest based on unique morphology. However, counting thousands of cells from micrometer brain slices is labor intensive, subjective, and prone to error. To automate this process with a reproducible pipeline, we propose to build a neural network model that can identify various cell types from brain slice images. 
 
