@@ -4,7 +4,7 @@ bio:                'PhD student @ Dartmouth College'
 description:        ""
 reading_time:       false
 words_per_minute:   200
-logo:               'assets/img/profpic.png'
+logo:               'assets/img/profpic1.jpg'
 background:         'assets/img/dartmouth_campus.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
@@ -39,12 +39,12 @@ disqus_shortname:   ebsmedley
 #bing-verify:
 #email:
 twitter:            ebsmed
-facebook:           ebsmedley
+#facebook:           #ebsmedley
 github-url:         ebsmedley
 #stackoverflow:     #123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:           elizabeth-smedley-5364238b
 #xing:              username
-instagram:          ebsmedley
+#Instagram:          #ebsmedley
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'

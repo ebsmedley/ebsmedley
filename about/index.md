@@ -11,10 +11,13 @@ comments: false
 ## Research Interests
 * Motivation
 * Reward
+* Addiction
 * Sign-Tracking
 * Pavlovian Conditioning
 
 ## Pubs
+<center><a href="https://scholar.google.com/citations?user=z5MHV2gAAAAJ&hl=en"><b>Google Scholar</b></a>
+
 <center><a href="http://www.smith-lab.org/wp-content/uploads/2012/04/Learn.-Mem.-2018-Smedley-78-89.pdf"><b>Evidence of structure and persistence in motivational attraction to serial Pavlovian cues</b></a> (2018) Learning & Memory</center>
 
 <center><a href="http://www.smith-lab.org/wp-content/uploads/2012/04/chang-salt.pdf"><b>Optogenetic inhibition of Ventral Pallidum Neurons Impairs Context-Driven Salt Seeking</b></a> (2017) The Journal of Neuroscience </center>
