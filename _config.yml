@@ -4,7 +4,7 @@ bio:                'PhD student @ Dartmouth College'
 description:        ""
 reading_time:       false
 words_per_minute:   200
-logo:               'assets/img/profpic'
+logo:               'assets/img/profpic.png'
 background:         'assets/img/dartmouth_campus.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
