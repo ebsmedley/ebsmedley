@@ -11,7 +11,7 @@ comments: false
 {% capture images %}
     https://raw.githubusercontent.com/ebsmedley/ebsmedley.github.io/master/about/SmithLabInterneuron.png
 {% endcapture %}
-{% include gallery images=images caption="Smith Lab at Dartmouth College" cols=1 %}
+{% include gallery images=images caption="" cols=1 %}
 
 ## Research Interests
 * Motivation
@@ -19,6 +19,7 @@ comments: false
 * Addiction
 * Sign-Tracking
 * Pavlovian Conditioning
+<center><a href="http://www.smith-lab.org/"><b>Check out the Smith Lab Website for more!</b></a></center>
 
 ## Pubs
 <a href="https://scholar.google.com/citations?user=z5MHV2gAAAAJ&hl=en"><b>Google Scholar</b></a>
