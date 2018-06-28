@@ -8,9 +8,10 @@ comments: false
     
 <center><a href="https://ebsmedley.github.io/"><b>Elizabeth Smedley</b></a> is a graduate student in Psychological and Brain Sciences @ Dartmouth College.</center>
 
-<figure>
-	<img src="/elizabethsmedley/ebsmedley.github.io/assets/img/SmithLabInterneuron.png">
-</figure>
+{% capture images %}
+    https://raw.githubusercontent.com/ebsmedley/ebsmedley.github.io/master/about/SmithLabInterneuron.png
+{% endcapture %}
+{% include gallery images=images caption="Smith Lab at Dartmouth College" cols=2 %}
 
 ## Research Interests
 * Motivation
