@@ -11,7 +11,7 @@ comments: false
 {% capture images %}
     https://raw.githubusercontent.com/ebsmedley/ebsmedley.github.io/master/about/SmithLabInterneuron.png
 {% endcapture %}
-{% include gallery images=images caption="Smith Lab at Dartmouth College" cols=2 %}
+{% include gallery images=images caption="Smith Lab at Dartmouth College" cols=1 %}
 
 ## Research Interests
 * Motivation
