@@ -1,6 +1,13 @@
 ---
-title: "Sample_Code"
-output: html_document
+layout: post
+title:  "Sample Code"
+date:   2018-08-22
+tag:
+- markdown 
+- syntax
+- sample
+- jekyll
+comments: false
 ---
 
 ```{r}
