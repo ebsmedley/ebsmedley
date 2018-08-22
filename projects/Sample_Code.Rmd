@@ -2,6 +2,7 @@
 layout: post
 title:  "Sample Code"
 date:   2018-08-22
+excerpt: "Practice sharing code chunks on this page"
 tag:
 - markdown 
 - syntax
