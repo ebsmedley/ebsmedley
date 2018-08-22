@@ -34,7 +34,11 @@ Including Plots
 
 You can also embed plots, for example:
 
-![](Code_Snippets_files/figure-markdown_strict/pressure-1.png)
+{% capture images %}
+    https://raw.githubusercontent.com/ebsmedley/ebsmedley.github.io/master/_posts/Code_Snippets_files/figure-markdown_strict/pressure-1.png
+{% endcapture %}
+{% include gallery images=images caption="" cols=1 %}
+
 
 Note that the `echo = FALSE` parameter was added to the code chunk to
 prevent printing of the R code that generated the plot.
