@@ -8,7 +8,7 @@ logo:               'assets/img/profpic1.jpg'
 background:         'assets/img/dartmouth_campus.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://ebsmedley.github.io/
+url:                https://ebsmedley.github.io
 
 # Jekyll
 permalink:          /:title/
