@@ -1,0 +1,24 @@
+---
+title: "Sample_Code"
+output: html_document
+---
+
+```{r}
+
+data("mtcars")
+
+head(mtcars)
+
+
+```
+
+```{r}
+summary(lm(mpg ~ cyl, data=mtcars))
+
+```
+
+
+```{r}
+plot(mtcars$mpg,mtcars$disp)
+```
+
