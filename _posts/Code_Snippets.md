@@ -1,4 +1,14 @@
-R Markdown
+---
+layout: post
+title:  "Code Snippets"
+date:   2018-08-22
+excerpt: "Practice uploading .Rmd code"
+tag:
+- sample
+- post
+- code
+comments: false
+---
 ----------
 
 This is an R Markdown document. Markdown is a simple formatting syntax
