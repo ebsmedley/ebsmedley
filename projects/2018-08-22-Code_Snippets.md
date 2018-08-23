@@ -1,8 +1,9 @@
 ---
-layout: project
+layout: post
 title:  "Code Snippets"
 date:   2018-08-22
 excerpt: "Practice uploading .Rmd code"
+project: true
 tag:
 - sample
 - post
