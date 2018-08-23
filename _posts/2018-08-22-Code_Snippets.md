@@ -36,7 +36,7 @@ Including Plots
 You can also embed plots, for example:
 
 {% capture images %}
-    https://raw.githubusercontent.com/ebsmedley/ebsmedley.github.io/master/Code_Blog/Code_Snippets_files/figure-markdown_strict/pressure-1.png
+    https://raw.githubusercontent.com/ebsmedley/ebsmedley.github.io/master/_posts/Code_Snippets_files/figure-markdown_strict/pressure-1.png
 {% endcapture %}
 {% include gallery images=images caption="" cols=1 %}
 
