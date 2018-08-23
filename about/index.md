@@ -9,7 +9,7 @@ comments: false
 <center><a href="https://ebsmedley.github.io/"><b>Elizabeth Smedley</b></a> is a graduate student with Dr. Kyle Smith in Psychological and Brain Sciences @ Dartmouth College.</center>
 
 {% capture images %}
-    https://raw.githubusercontent.com/ebsmedley/ebsmedley.github.io/master/about/img/SmithLabInterneuron.png
+    https://raw.githubusercontent.com/ebsmedley/ebsmedley.github.io/master/assets/img/SmithLabInterneuron.png
 {% endcapture %}
 {% include gallery images=images caption="" cols=1 %}
 
