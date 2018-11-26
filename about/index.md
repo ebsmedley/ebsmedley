@@ -21,6 +21,11 @@ comments: false
 * Pavlovian Conditioning
 <center><a href="http://www.smith-lab.org/"><b>Check out the Smith Lab Website for more!</b></a></center>
 
+## Preprints
+* <a href="https://www.biorxiv.org/content/early/2018/11/21/474387"><b>Circuit directionality for motivation: lateral accumbens-pallidum, but not pallidum-accumbens, connections regulate motivational attraction to reward cues</b></a> (Under Review) 
+
+* <a href="https://www.biorxiv.org/content/early/2018/11/23/475541"><b>Explorations with conditioned stimuli in autoshaping procedures</b></a> 
+
 ## Pubs
 <a href="https://scholar.google.com/citations?user=z5MHV2gAAAAJ&hl=en"><b>Google Scholar</b></a>
 
