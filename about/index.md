@@ -2,7 +2,7 @@
 layout: page
 title: About 
 tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+date: 2019-05-16
 comments: false
 ---
     
@@ -26,13 +26,14 @@ comments: false
 <center><a href="http://www.smith-lab.org/"><b>Check out the Smith Lab Website for more!</b></a></center>
 
 ## Preprints
-* <a href="https://www.biorxiv.org/content/early/2018/11/21/474387"><b>Circuit directionality for motivation: lateral accumbens-pallidum, but not pallidum-accumbens, connections regulate motivational attraction to reward cues</b></a> (Under Review) 
+
 
 * <a href="https://www.biorxiv.org/content/early/2018/11/23/475541"><b>Explorations with conditioned stimuli in autoshaping procedures</b></a> 
 
 ## Pubs
 <a href="https://scholar.google.com/citations?user=z5MHV2gAAAAJ&hl=en"><b>Google Scholar</b></a>
 
+* <a href="https://www.sciencedirect.com/science/article/pii/S1074742719300899"><b>Circuit directionality for motivation: lateral accumbens-pallidum, but not pallidum-accumbens, connections regulate motivational attraction to reward cues</b></a> (2019, In Press) 
 
 * <a href="https://www.sciencedirect.com/science/article/pii/S0376635718301359"><b>Evidence for a shared representation of sequential cues that engage sign-tracking</b></a> (2018) Behavioural Processes
 
