@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Code Snippets"
-date:   2018-08-22
-excerpt: "Practice uploading .Rmd code"
+title:  "Posters and Conferences"
+date:   2019-09-04
+excerpt: "Select poster presentations from various conferences throughout the years"
 project: true
 tag:
 - sample
@@ -11,35 +11,23 @@ tag:
 comments: false
 ---
 
+##Look for me at SfN 2019!
+Poster info: 324.07 / W8 - Circuit directionality for motivation: Lateral accumbens-pallidum, but not pallidum-accumbens, connections regulate motivational attraction to reward cues
 
-This is an R Markdown document. Markdown is a simple formatting syntax
-for authoring HTML, PDF, and MS Word documents. For more details on
-using R Markdown see <http://rmarkdown.rstudio.com>.
+If you can't make it, stay tuned to my website, I'll be sure to post the poster following the conference!
 
-When you click the **Knit** button a document will be generated that
-includes both content as well as the output of any embedded R code
-chunks within the document. You can embed an R code chunk like this:
-
-    summary(cars)
-
-    ##      speed           dist       
-    ##  Min.   : 4.0   Min.   :  2.00  
-    ##  1st Qu.:12.0   1st Qu.: 26.00  
-    ##  Median :15.0   Median : 36.00  
-    ##  Mean   :15.4   Mean   : 42.98  
-    ##  3rd Qu.:19.0   3rd Qu.: 56.00  
-    ##  Max.   :25.0   Max.   :120.00
-
-Including Plots
----------------
-
-You can also embed plots, for example:
+##Dartmouth Neuroscience Day, 2018
 
 {% capture images %}
-    https://raw.githubusercontent.com/ebsmedley/ebsmedley.github.io/master/_posts/Code_Snippets_files/figure-markdown_strict/pressure-1.png
+    https://raw.githubusercontent.com/ebsmedley/ebsmedley.github.io/master/_posts/Code_Snippets_files/figure-markdown_strict/NeuroscienceDay2018.pdf
 {% endcapture %}
 {% include gallery images=images caption="" cols=1 %}
 
 
-Note that the `echo = FALSE` parameter was added to the code chunk to
-prevent printing of the R code that generated the plot.
+##University of New Hampshire Undergraduate Research Conference, 2015
+
+{% capture images %}
+    https://raw.githubusercontent.com/ebsmedley/ebsmedley.github.io/master/_posts/Code_Snippets_files/figure-markdown_strict/EBS_URC_2015.pdf
+{% endcapture %}
+{% include gallery images=images caption="" cols=1 %}
+
