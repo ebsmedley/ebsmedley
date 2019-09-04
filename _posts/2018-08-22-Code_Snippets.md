@@ -20,7 +20,7 @@ If you can't make it, stay tuned to my website, I'll be sure to post the poster 
 Dartmouth Neuroscience Day, 2018
 
 {% capture images %}
-    https://raw.githubusercontent.com/ebsmedley/ebsmedley.github.io/master/_posts/Code_Snippets_files/figure-markdown_strict/NeuroscienceDay2018.pdf
+    https://raw.githubusercontent.com/ebsmedley/ebsmedley.github.io/master/_posts/Code_Snippets_files/figure-markdown_strict/NeuroscienceDay2018.png
 {% endcapture %}
 {% include gallery images=images caption="" cols=1 %}
 
