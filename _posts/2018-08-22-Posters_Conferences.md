@@ -11,7 +11,7 @@ tag:
 comments: false
 ---
 
-## Look for me at SfN 2019!
+## Society for Neuroscience, 2019
 
 {% capture images %}
     https://raw.githubusercontent.com/ebsmedley/ebsmedley.github.io/master/_posts/Code_Snippets_files/figure-markdown_strict/SFN_19.png
