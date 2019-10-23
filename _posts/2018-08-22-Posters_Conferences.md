@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Posters and Conferences"
-date:   2019-09-04
+date:   2019-10-23
 excerpt: "Select poster presentations from various conferences throughout the years"
 project: true
 tag:
