@@ -13,9 +13,10 @@ comments: false
 
 ## Look for me at SfN 2019!
 
-Poster info: 324.07 / W8 - Circuit directionality for motivation: Lateral accumbens-pallidum, but not pallidum-accumbens, connections regulate motivational attraction to reward cues
-
-If you can't make it, stay tuned to my website, I'll be sure to post the poster following the conference!
+{% capture images %}
+    https://raw.githubusercontent.com/ebsmedley/ebsmedley.github.io/master/_posts/Code_Snippets_files/figure-markdown_strict/SFN_19.png
+{% endcapture %}
+{% include gallery images=images caption="" cols=1 %}
 
 ## Dartmouth Neuroscience Day, 2018
 
