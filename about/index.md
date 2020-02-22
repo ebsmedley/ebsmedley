@@ -25,7 +25,7 @@ My academic career has been shaped by an interest in understanding motivated beh
 <center><a href="http://www.smith-lab.org/"><b>Check out the Smith Lab Website for more!</b></a></center>
 
 ## Preprints
-
+* <a href="https://www.biorxiv.org/content/10.1101/2020.02.18.954677v1"><b>Chronic chemogenetic manipulation of ventral pallidum targeted neurons in rats fed an obesogenic diet</b></a> 
 
 * <a href="https://www.biorxiv.org/content/early/2018/11/23/475541"><b>Explorations with conditioned stimuli in autoshaping procedures</b></a> 
 
