@@ -32,6 +32,8 @@ My academic career has been shaped by an interest in understanding motivated beh
 ## Pubs
 <a href="https://scholar.google.com/citations?user=z5MHV2gAAAAJ&hl=en"><b>Google Scholar</b></a>
 
+* <a href="https://link.springer.com/chapter/10.1007/978-3-030-43562-2_8#citeasDoucette"><b> Emerging Translational Treatments to Target the Neural Networks of Binge Eating </b></a> W., Smedley E.B. (2020)  In: Frank G., Berner L. (eds) Binge Eating. Springer, Cham
+
 * <a href="https://www.sciencedirect.com/science/article/pii/S1074742719300899"><b>Circuit directionality for motivation: lateral accumbens-pallidum, but not pallidum-accumbens, connections regulate motivational attraction to reward cues</b></a> (2019) Neurobiology of Learning and Memory
 
 * <a href="https://www.sciencedirect.com/science/article/pii/S0376635718301359"><b>Evidence for a shared representation of sequential cues that engage sign-tracking</b></a> (2018) Behavioural Processes
